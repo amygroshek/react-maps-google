@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "clean-react-props": "^0.2.6",
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.7.2",
     "react-load-script": "0.0.6"
   },
   "devDependencies": {
